@@ -2,7 +2,7 @@ const uitoolkit = window.UIToolkit;
 var sessionContainer = document.getElementById("sessionContainer");
 var authEndpoint = "https://l1sgnx6bek.execute-api.us-east-1.amazonaws.com/latest";
 var config = {
-  videoSDKJWT: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOm51bGwsImlzcyI6IlBzWVgxNGRLVFpheEZLdFBRb3FQamciLCJleHAiOjE3NzcwMzg3MjAsImlhdCI6MTc0NTQ5NzM3MH0.mSoTAJ0wDGp-2hhDR6DBTXmAs-maD_8nJ3C4e9O75OQ",
+  videoSDKJWT: "",
   sessionName: "test",
   userName: "JavaScript",
   sessionPasscode: "123",
