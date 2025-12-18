@@ -1,6 +1,6 @@
 const uitoolkit = window.UIToolkit;
 var sessionContainer = document.getElementById("sessionContainer");
-var authEndpoint = "https://l1sgnx6bek.execute-api.us-east-1.amazonaws.com/latest";
+var authEndpoint = "https://zoom-video-sdk-auth-sample-6pgf.onrender.com";
 var config = {
   videoSDKJWT: "",
   sessionName: "test",
